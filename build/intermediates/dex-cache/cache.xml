@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ginov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Project_android_studio\AndroidGraphView1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_dd9ce68ade0ecf89c5822375a15f98f3bff1577d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project_android_studio\AndroidGraphView1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1880868e35d20f1a5b92cc540a6feb262c2ea11f">
+        <dex dex="F:\Project_android_studio\AndroidGraphView1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a3b9de607cb9456d817bfc0228a0fdf74295436c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Project_android_studio\AndroidGraphView1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04ef8069314af184753faf2ff85c9fc36a74f298">
+        <dex dex="F:\Project_android_studio\AndroidGraphView1\app\build\intermediates\pre-dexed\debug\instant-run_fd7e7cfda4b8216aa5c3e151e03d559488727fad.jar" />
+    </item>
+
+</items>
